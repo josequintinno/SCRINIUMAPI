@@ -7,3 +7,5 @@
             🔵 feature: Organizar arquivos do projeto
 
             🔵 feature: Implementar ajuste no arquivo Application
+
+            🔵 feature: Implementar endpoint para realização de Upload de Arquivos
