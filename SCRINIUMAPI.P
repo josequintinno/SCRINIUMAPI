@@ -1,0 +1,7 @@
+### ::... SCRINIUMAPI ...::
+
+    + Tarefas
+
+        SCRINIUMAPI-20240624122726
+
+            🔵 feature: Organizar arquivos do projeto
