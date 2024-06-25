@@ -9,3 +9,5 @@
             🔵 feature: Implementar ajuste no arquivo Application
 
             🔵 feature: Implementar endpoint para realização de Upload de Arquivos
+
+            🔵 feature: Implementar parametrização via banco de dados com endereço do diretório
